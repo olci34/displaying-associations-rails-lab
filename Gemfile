@@ -10,6 +10,7 @@ gem 'bootsnap'
 
 group :development, :test do
   gem 'pry'
+  gem 'require_all'
   gem 'capybara'
   gem 'rspec-rails'
 end
